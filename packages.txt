@@ -1,0 +1,12 @@
+Here's a list to make sure you have all the necessary packages installed:
+
+1. `pandas` : Data manipulation and analysis. Install with `pip install pandas`
+2. `networkx` : Creation, manipulation, and study of the structure, dynamics, and functions of complex networks. Install with `pip install networkx`
+3. `community` : Detection of community structure. This is part of the `python-louvain` package. Install with `pip install python-louvain`
+4. `matplotlib` : Plotting library. Install with `pip install matplotlib`
+5. `collections` : This package is part of the Python Standard Library, so it should be available in any standard Python installation.
+6. `seaborn` : Statistical data visualization. Install with `pip install seaborn`
+7. `random` : This package is part of the Python Standard Library, so it should be available in any standard Python installation.
+8. `numpy` : A package for scientific computing with Python. Install with `pip install numpy`
+9. `fa2` : ForceAtlas2 for Python (and NetworkX). Install with `pip install fa2`
+10. `scikit-learn` : Machine learning library. Install with `pip install scikit-learn`
